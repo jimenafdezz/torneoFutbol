@@ -11,7 +11,7 @@ package com.mycompany.torneofutbol;
 public class TorneoFutbol {
 
     public static void main(String[] args) {
-         System.out.println("Accediendo a la base de datos del torneo de FP");
+         System.out.println("hola,voy a mostrar los jugadores de los equiopos");
         
         // Crear una instancia de la clase Equipo
         equipo equipoMH = new equipo("IES MH FC");
